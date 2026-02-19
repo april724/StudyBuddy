@@ -1,0 +1,7 @@
+{
+  "name": "StudyBuddy Cute Learning Assistant",
+  "description": "A lively and cute educational app that uses AI to analyze photos of study materials, providing problem practice, mistake explanations, and visual key point summaries.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
